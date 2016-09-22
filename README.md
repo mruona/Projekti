@@ -1,2 +1,2 @@
 # Projekti
-Projektin tiedostot
+Projektin scriptit tiedostot
